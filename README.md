@@ -1,13 +1,9 @@
-# Mauriac45-R-Case-Project-NLP-for-Call-Of-Duty
-Call Of Duty- Text Analysis Project
 
-The Call of Duty League is an e-sports league based on Activision’s Call of Duty video game. At the moment the league has 13 teams each having large number of followers.
-the marketing team representing the league want to add a new team called “Cleveland Fire”. The company has provided me with a large amoutn of data 
-- 'teamTimeline' FOLDER - this file has one file with 26,781 tweets among 13 teams.
-- 'playerTimelines' FOLDER – contains 13 files, one per team, totaling 177,764 tweets.  
-- 'teamFollowerTimelines' FOLDER – contains 13 files, one per team, totally 361,440 tweets. This represents a sample of 3600 followers for each team among the followers.
-- 'playerFollowerTimelines' FOLDER – contains 61 files, one per player, totally 2,006,995 tweets
+## NBA- Text Analysis Project
 
-The objective is to identify themes or insights that may benefit the company in adding a new team.
+  My role in this project was to think as a marketing analyst for NIKE, where I had to analyze fan engagement based on the fan's tweets or comments. 
+By using NLP, more precisely text mining analysis, I was able to examine the fans' sentiment and polarity. In addition, I was able to learn about the most popular teams, comment about them, and even the most spoken about athletes.
+  At the end of the analysis , I provided some insightsuch as frequent words, emerging topics, share of voice, sentiment/polarity by athlete, team, or across the NBA.
+ These analysis supported my recommneded actionable insight. 
 
-### In order to provide actionable insights and recomendations I used text mining processes through R-programming.
+
